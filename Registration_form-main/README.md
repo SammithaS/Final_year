@@ -1,4 +1,6 @@
 # Registration form
+![Screenshot (236)](https://github.com/SammithaS/Final_year/assets/121117205/73023d29-7f08-4424-9700-1f1f391ea79b)
+![Screenshot (237)](https://github.com/SammithaS/Final_year/assets/121117205/92529384-4865-4092-a330-38d263b826cc)
 
-![Screenshot (237)](https://github.com/SammithaS/Final_year/assets/121117205/7d2dc1d5-ef67-4ea8-afc7-2e4d6209002e)
-![Screenshot (236)](https://github.com/SammithaS/Final_year/assets/121117205/5e71fbee-1668-40a7-a26c-03414be7a776)
+
+
